@@ -75,7 +75,6 @@ p {
 }
 
 .link-nav:hover,
-.link-nav:active,
 .link-nav:focus {
   color: #404bbf;
 }
@@ -93,7 +92,7 @@ p {
 }
 
 .address-link:hover,
-.address-link:active {
+.address-link:focus {
   color: #404bbf;
 }
 
@@ -112,7 +111,7 @@ p {
 
 .button-hero:hover,
 .button-hero:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .team {
