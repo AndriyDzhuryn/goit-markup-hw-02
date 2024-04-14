@@ -61,7 +61,7 @@ p {
   color: #4d5ae5;
 }
 
-.logo-part {
+.logo-header {
   color: #2e2f42;
 }
 
@@ -134,6 +134,10 @@ p {
 
 .footer {
   background-color: #2e2f42;
+}
+
+.logo-footer {
+  color: #f4f4fd;
 }
 
 .advice {
