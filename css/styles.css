@@ -6,6 +6,7 @@ body {
 
 a {
   text-decoration: none;
+  color: inherit;
 }
 
 ul,
@@ -49,7 +50,6 @@ p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
 .logo {
@@ -66,7 +66,7 @@ p {
   color: #2e2f42;
 }
 
-.link-nav {
+.menu-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -74,25 +74,24 @@ p {
   color: #2e2f42;
 }
 
-.link-nav:hover,
-.link-nav:focus {
+.menu-link:hover,
+.menu-link:focus {
   color: #404bbf;
 }
 
-.address {
+.site-address {
   font-style: normal;
 }
 
-.address-link {
+.contacts-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
-.address-link:hover,
-.address-link:focus {
+.contacts-link:hover,
+.contacts-link:focus {
   color: #404bbf;
 }
 
@@ -138,7 +137,7 @@ p {
   color: #2e2f42;
 }
 
-.footer {
+.page-footer {
   background-color: #2e2f42;
 }
 
